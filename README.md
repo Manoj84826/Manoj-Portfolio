@@ -1,4 +1,5 @@
-### Add image profile picture 
+<img width="282" height="282" alt="image" src="https://github.com/user-attachments/assets/90cf5374-3294-4806-a2ae-0bb3eeb3e612" />
+
 
 # Personal information: 
 Address: Glanzstr 
