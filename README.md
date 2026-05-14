@@ -22,7 +22,7 @@ adaptability.
 # Data Scientist
 
 ### Education: 
-• MSc in Data Science, Arden University, Pursuing 
+• MSc in Data Science, Arden University, Pursuing, September 2025 
 • B.Tech - Electronics & Communication Engineering 65%, year 2017 to 2023
 
 ### Project working on:
